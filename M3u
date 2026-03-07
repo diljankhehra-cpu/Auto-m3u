@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="sonysabhd" tvg-chno="107" tvg-name="Sony SAB HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Hindi Entertainment",Sony SAB HD
+https://mini.allinonereborn.fun/tata.php?id=11672
+
+#EXTINF:-1 tvg-id="disneychannel" tvg-chno="977" tvg-name="Disney Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
+https://mini.allinonereborn.fun/tata.php?id=931
+
+#EXTINF:-1 tvg-id="nick" tvg-chno="975" tvg-name="Nick" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick.png" group-title="Kids",Nick
+https://mini.allinonereborn.fun/tata.php?id=11662
+
+#EXTINF:-1 tvg-id="sonic" tvg-chno="958" tvg-name="Sonic" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic.png" group-title="Kids",Sonic
+https://mini.allinonereborn.fun/tata.php?id=11667
+
+#EXTINF:-1 tvg-id="starsports1hd" tvg-chno="607" tvg-name="Star Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD
+https://mini.allinonereborn.fun/tata.php?id=12145
+
+#EXTINF:-1 tvg-id="sonysports1hd" tvg-chno="613" tvg-name="Sony Sports 1 HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Sports_1_HD.png" group-title="Sports",Sony Sports 1 HD
+https://mini.allinonereborn.fun/tata.php?id=12145
