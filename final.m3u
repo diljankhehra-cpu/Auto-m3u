@@ -1,0 +1,41 @@
+#EXTINF:-1 channel-number="1152" #EXTINF:-1 tvg-id="ChardiklaTimeTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHARDIKLA_TIME_TV/images/LOGO_HD/image.png" group-title="News",Chardikla Time TV (1080p)
+#EXTINF:-1 channel-number="1152" https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+#EXTINF:-1 channel-number="1152" #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" tvg-logo="https://i.imgur.com/IUeMFey.jpg" group-title="News",Chardikla Time TV North America (1080p)
+#EXTINF:-1 channel-number="1152" https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
+#EXTINF:-1 channel-number="1154" #EXTINF:-1 tvg-id="PTCPunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="Entertainment",PTC Punjabi (1080p)
+#EXTINF:-1 channel-number="1154" https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1 channel-number="1154" #EXTINF:-1 tvg-id="PTCPunjabiCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Undefined",PTC Punjabi Canada (1080p)
+#EXTINF:-1 channel-number="1154" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTINF:-1 channel-number="1154" --
+#EXTINF:-1 channel-number="1154" #EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="Entertainment",PTC Punjabi Gold (1080p)
+#EXTINF:-1 channel-number="1154" https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 channel-number="1156" #EXTINF:-1 tvg-id="ZeePunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Punjabi (576p)
+#EXTINF:-1 channel-number="1156" http://161.248.38.40:8000/play/a0at/index.m3u8
+#EXTINF:-1 channel-number="1169" #EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="Culture",DD Punjabi (576p)
+#EXTINF:-1 channel-number="1169" http://103.78.149.54:8000/play/a00o/index.m3u8
+#EXTINF:-1 channel-number="1181" #EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png" group-title="Movies",Pitaara (720p)
+#EXTINF:-1 channel-number="1181" https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1 channel-number="1183" #EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="Music",PTC Chakde (720p)
+#EXTINF:-1 channel-number="1183" https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 channel-number="1184" #EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="Entertainment",PTC Punjabi Gold (1080p)
+#EXTINF:-1 channel-number="1184" https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 channel-number="1185" #EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png" group-title="Music",9X Tashan
+#EXTINF:-1 channel-number="1185" https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 channel-number="1186" #EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="Music",PTC Music (720p)
+#EXTINF:-1 channel-number="1186" https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 channel-number="1187" #EXTINF:-1 tvg-id="MHOneDilSe.in@SD" tvg-logo="https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png" group-title="Entertainment",MH One Dil Se (576p)
+#EXTINF:-1 channel-number="1187" http://103.78.149.54:8000/play/a03i/index.m3u8
+#EXTINF:-1 channel-number="1187" #EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png" group-title="Movies",MH One Movies (576p)
+#EXTINF:-1 channel-number="1187" https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
+#EXTINF:-1 channel-number="1187" #EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha (360p)
+#EXTINF:-1 channel-number="1187" https://paramount.jswk.online/shraddhamhone/index.m3u8
+#EXTINF:-1 channel-number="1188" #EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Music",Balle Balle (1080p)
+#EXTINF:-1 channel-number="1188" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTINF:-1 channel-number="1190" #EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" group-title="News",PTC News (576p)
+#EXTINF:-1 channel-number="1190" https://cdn-4.pishow.tv/live/1502/master.m3u8
+#EXTINF:-1 channel-number="1191" #EXTINF:-1 tvg-id="News18PunjabHaryanaHimachal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_PUNJAB_HARYANA/images/LOGO_HD/image.png" group-title="News",News18 Punjab/Haryana/Himachal (1080p)
+#EXTINF:-1 channel-number="1191" https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 channel-number="1193" #EXTINF:-1 tvg-id="IndiaNewsHaryana.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143192_ld_h15_aa.png?lock=720x540" group-title="News",India News Haryana (1080p)
+#EXTINF:-1 channel-number="1193" https://newsxott.in/hls/indianewsharyana.m3u8
+#EXTINF:-1 channel-number="1195" #EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Manoranjan Movies (720p)
+#EXTINF:-1 channel-number="1195" https://cdn-2.pishow.tv/live/228/master.m3u8
